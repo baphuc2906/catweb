@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url(./img/backgroud.png);
+}
+
+@media screen and (max-width: 768px) {
+    h2.text-uppercase.font-weight-bold.text-center {
+        font-size: 40px !important;
+    }
+}
